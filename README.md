@@ -1,2 +1,2 @@
 # DSC-478
-Project for DSC 478 Digit Classifier
+Projects for DSC 478 Digit Classifier and Joke Ratings System
